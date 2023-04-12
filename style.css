@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+ .hero-img{
+     background-image: url('images/f1.jpg');
+     height: 75vh;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+ }
+ .hero-card{
+    margin-left:400px;
+    margin-right:400px;
+ }
+.typography{
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.t-footer{
+    background: #101A72;
+    position:relative;
+    padding:0%; 
+    color: white;
+}
